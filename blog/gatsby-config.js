@@ -9,12 +9,12 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Blog`,
+    title: `Gatsby Blog!`,
     description: ``,
-    author: `Mike Hunsicker`,
+    author: `Diego Ramirez`,
     siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
     contact: {
-      name: `Mike Hunsicker`,
+      name: `Diego Ramirez`,
       company: `Blogs Inc.`,
       address: `PO Box 1234`
     }
